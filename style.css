@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+    margin: 40px;
+}
+
+#main_div {
+    width: 100%;
+}
+
+b {
+    font-size: 1.3rem;
+}
+
+#ordered {
+    border: 2px solid slateblue;
+    border-radius: 8px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 30%;
+    margin: 0 auto;
+    font-size: 18px;
+    color: brown;
+}
+
+.likes {
+    padding: 10px 15px 0px 10px;
+}
+
+#unordered {
+    border: 2px solid salmon;
+    border-radius: 8px;
+    list-style: circle;
+    width: 30%;
+    margin: 60px auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 18px;
+}
+
+.dislikes {
+    padding: 10px 15px 0px 10px;
+}
+
+#reason {
+    padding-top: 10px;
+    list-style: square;
+    color: slateblue;
+    line-height: 1.5;
+}
